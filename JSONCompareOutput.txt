@@ -1,0 +1,1 @@
+Object 1 and object 2 both have same property and property value

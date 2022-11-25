@@ -1,0 +1,251 @@
+Task 3 - All Countries
+script.js:15 Name : Mauritania, Region : Africa, SubRegion : Western Africa, Population : 4649660
+script.js:15 Name : Aruba, Region : Americas, SubRegion : Caribbean, Population : 106766
+script.js:15 Name : Argentina, Region : Americas, SubRegion : South America, Population : 45376763
+script.js:15 Name : Sweden, Region : Europe, SubRegion : Northern Europe, Population : 10353442
+script.js:15 Name : Maldives, Region : Asia, SubRegion : Southern Asia, Population : 540542
+script.js:15 Name : Mexico, Region : Americas, SubRegion : North America, Population : 128932753
+script.js:15 Name : New Zealand, Region : Oceania, SubRegion : Australia and New Zealand, Population : 5084300
+script.js:15 Name : Ecuador, Region : Americas, SubRegion : South America, Population : 17643060
+script.js:15 Name : Wallis and Futuna, Region : Oceania, SubRegion : Polynesia, Population : 11750
+script.js:15 Name : Åland Islands, Region : Europe, SubRegion : Northern Europe, Population : 29458
+script.js:15 Name : Montenegro, Region : Europe, SubRegion : Southeast Europe, Population : 621718
+script.js:15 Name : Pakistan, Region : Asia, SubRegion : Southern Asia, Population : 220892331
+script.js:15 Name : Pitcairn Islands, Region : Oceania, SubRegion : Polynesia, Population : 56
+script.js:15 Name : Zambia, Region : Africa, SubRegion : Eastern Africa, Population : 18383956
+script.js:15 Name : Seychelles, Region : Africa, SubRegion : Eastern Africa, Population : 98462
+script.js:15 Name : Malaysia, Region : Asia, SubRegion : South-Eastern Asia, Population : 32365998
+script.js:15 Name : Norway, Region : Europe, SubRegion : Northern Europe, Population : 5379475
+script.js:15 Name : Uzbekistan, Region : Asia, SubRegion : Central Asia, Population : 34232050
+script.js:15 Name : Vanuatu, Region : Oceania, SubRegion : Melanesia, Population : 307150
+script.js:15 Name : French Southern and Antarctic Lands, Region : Antarctic, SubRegion : undefined, Population : 400
+script.js:15 Name : Christmas Island, Region : Oceania, SubRegion : Australia and New Zealand, Population : 2072
+script.js:15 Name : Singapore, Region : Asia, SubRegion : South-Eastern Asia, Population : 5685807
+script.js:15 Name : Suriname, Region : Americas, SubRegion : South America, Population : 586634
+script.js:15 Name : Western Sahara, Region : Africa, SubRegion : Northern Africa, Population : 510713
+script.js:15 Name : Saint Martin, Region : Americas, SubRegion : Caribbean, Population : 38659
+script.js:15 Name : Costa Rica, Region : Americas, SubRegion : Central America, Population : 5094114
+script.js:15 Name : Heard Island and McDonald Islands, Region : Antarctic, SubRegion : undefined, Population : 0
+script.js:15 Name : Ireland, Region : Europe, SubRegion : Northern Europe, Population : 4994724
+script.js:15 Name : Antarctica, Region : Antarctic, SubRegion : undefined, Population : 1000
+script.js:15 Name : Australia, Region : Oceania, SubRegion : Australia and New Zealand, Population : 25687041
+script.js:15 Name : Libya, Region : Africa, SubRegion : Northern Africa, Population : 6871287
+script.js:15 Name : Qatar, Region : Asia, SubRegion : Western Asia, Population : 2881060
+script.js:15 Name : Greenland, Region : Americas, SubRegion : North America, Population : 56367
+script.js:15 Name : Mauritius, Region : Africa, SubRegion : Eastern Africa, Population : 1265740
+script.js:15 Name : Kazakhstan, Region : Asia, SubRegion : Central Asia, Population : 18754440
+script.js:15 Name : British Indian Ocean Territory, Region : Africa, SubRegion : Eastern Africa, Population : 3000
+script.js:15 Name : Albania, Region : Europe, SubRegion : Southeast Europe, Population : 2837743
+script.js:15 Name : Bahrain, Region : Asia, SubRegion : Western Asia, Population : 1701583
+script.js:15 Name : Papua New Guinea, Region : Oceania, SubRegion : Melanesia, Population : 8947027
+script.js:15 Name : Burundi, Region : Africa, SubRegion : Eastern Africa, Population : 11890781
+script.js:15 Name : India, Region : Asia, SubRegion : Southern Asia, Population : 1380004385
+script.js:15 Name : Uruguay, Region : Americas, SubRegion : South America, Population : 3473727
+script.js:15 Name : Saint Lucia, Region : Americas, SubRegion : Caribbean, Population : 183629
+script.js:15 Name : Barbados, Region : Americas, SubRegion : Caribbean, Population : 287371
+script.js:15 Name : New Caledonia, Region : Oceania, SubRegion : Melanesia, Population : 271960
+script.js:15 Name : Latvia, Region : Europe, SubRegion : Northern Europe, Population : 1901548
+script.js:15 Name : Estonia, Region : Europe, SubRegion : Northern Europe, Population : 1331057
+script.js:15 Name : Niue, Region : Oceania, SubRegion : Polynesia, Population : 1470
+script.js:15 Name : Saint Barthélemy, Region : Americas, SubRegion : Caribbean, Population : 4255
+script.js:15 Name : Puerto Rico, Region : Americas, SubRegion : Caribbean, Population : 3194034
+script.js:15 Name : Grenada, Region : Americas, SubRegion : Caribbean, Population : 112519
+script.js:15 Name : Macau, Region : Asia, SubRegion : Eastern Asia, Population : 649342
+script.js:15 Name : Cyprus, Region : Europe, SubRegion : Southern Europe, Population : 1207361
+script.js:15 Name : Isle of Man, Region : Europe, SubRegion : Northern Europe, Population : 85032
+script.js:15 Name : Greece, Region : Europe, SubRegion : Southern Europe, Population : 10715549
+script.js:15 Name : Syria, Region : Asia, SubRegion : Western Asia, Population : 17500657
+script.js:15 Name : Lithuania, Region : Europe, SubRegion : Northern Europe, Population : 2794700
+script.js:15 Name : Curaçao, Region : Americas, SubRegion : Caribbean, Population : 155014
+script.js:15 Name : Dominica, Region : Americas, SubRegion : Caribbean, Population : 71991
+script.js:15 Name : Niger, Region : Africa, SubRegion : Western Africa, Population : 24206636
+script.js:15 Name : Kyrgyzstan, Region : Asia, SubRegion : Central Asia, Population : 6591600
+script.js:15 Name : Trinidad and Tobago, Region : Americas, SubRegion : Caribbean, Population : 1399491
+script.js:15 Name : Togo, Region : Africa, SubRegion : Western Africa, Population : 8278737
+script.js:15 Name : Palestine, Region : Asia, SubRegion : Western Asia, Population : 4803269
+script.js:15 Name : Madagascar, Region : Africa, SubRegion : Eastern Africa, Population : 27691019
+script.js:15 Name : Croatia, Region : Europe, SubRegion : Southeast Europe, Population : 4047200
+script.js:15 Name : Faroe Islands, Region : Europe, SubRegion : Northern Europe, Population : 48865
+script.js:15 Name : Haiti, Region : Americas, SubRegion : Caribbean, Population : 11402533
+script.js:15 Name : Montserrat, Region : Americas, SubRegion : Caribbean, Population : 4922
+script.js:15 Name : Cook Islands, Region : Oceania, SubRegion : Polynesia, Population : 18100
+script.js:15 Name : Timor-Leste, Region : Asia, SubRegion : South-Eastern Asia, Population : 1318442
+script.js:15 Name : Martinique, Region : Americas, SubRegion : Caribbean, Population : 378243
+script.js:15 Name : Cuba, Region : Americas, SubRegion : Caribbean, Population : 11326616
+script.js:15 Name : Taiwan, Region : Asia, SubRegion : Eastern Asia, Population : 23503349
+script.js:15 Name : Eswatini, Region : Africa, SubRegion : Southern Africa, Population : 1160164
+script.js:15 Name : Ukraine, Region : Europe, SubRegion : Eastern Europe, Population : 44134693
+script.js:15 Name : Bermuda, Region : Americas, SubRegion : North America, Population : 63903
+script.js:15 Name : South Korea, Region : Asia, SubRegion : Eastern Asia, Population : 51780579
+script.js:15 Name : Peru, Region : Americas, SubRegion : South America, Population : 32971846
+script.js:15 Name : Iraq, Region : Asia, SubRegion : Western Asia, Population : 40222503
+script.js:15 Name : Moldova, Region : Europe, SubRegion : Eastern Europe, Population : 2617820
+script.js:15 Name : San Marino, Region : Europe, SubRegion : Southern Europe, Population : 33938
+script.js:15 Name : Venezuela, Region : Americas, SubRegion : South America, Population : 28435943
+script.js:15 Name : Guyana, Region : Americas, SubRegion : South America, Population : 786559
+script.js:15 Name : Cayman Islands, Region : Americas, SubRegion : Caribbean, Population : 65720
+script.js:15 Name : Cambodia, Region : Asia, SubRegion : South-Eastern Asia, Population : 16718971
+script.js:15 Name : Cocos (Keeling) Islands, Region : Oceania, SubRegion : Australia and New Zealand, Population : 544
+script.js:15 Name : Malta, Region : Europe, SubRegion : Southern Europe, Population : 525285
+script.js:15 Name : Sri Lanka, Region : Asia, SubRegion : Southern Asia, Population : 21919000
+script.js:15 Name : Israel, Region : Asia, SubRegion : Western Asia, Population : 9216900
+script.js:15 Name : Sudan, Region : Africa, SubRegion : Northern Africa, Population : 43849269
+script.js:15 Name : United States Virgin Islands, Region : Americas, SubRegion : Caribbean, Population : 106290
+script.js:15 Name : Eritrea, Region : Africa, SubRegion : Eastern Africa, Population : 5352000
+script.js:15 Name : Mali, Region : Africa, SubRegion : Western Africa, Population : 20250834
+script.js:15 Name : Somalia, Region : Africa, SubRegion : Eastern Africa, Population : 15893219
+script.js:15 Name : Norfolk Island, Region : Oceania, SubRegion : Australia and New Zealand, Population : 2302
+script.js:15 Name : Comoros, Region : Africa, SubRegion : Eastern Africa, Population : 869595
+script.js:15 Name : Nicaragua, Region : Americas, SubRegion : Central America, Population : 6624554
+script.js:15 Name : Russia, Region : Europe, SubRegion : Eastern Europe, Population : 144104080
+script.js:15 Name : Uganda, Region : Africa, SubRegion : Eastern Africa, Population : 45741000
+script.js:15 Name : Nauru, Region : Oceania, SubRegion : Micronesia, Population : 10834
+script.js:15 Name : Switzerland, Region : Europe, SubRegion : Western Europe, Population : 8654622
+script.js:15 Name : Portugal, Region : Europe, SubRegion : Southern Europe, Population : 10305564
+script.js:15 Name : Tajikistan, Region : Asia, SubRegion : Central Asia, Population : 9537642
+script.js:15 Name : South Sudan, Region : Africa, SubRegion : Middle Africa, Population : 11193729
+script.js:15 Name : Bouvet Island, Region : Antarctic, SubRegion : undefined, Population : 0
+script.js:15 Name : Micronesia, Region : Oceania, SubRegion : Micronesia, Population : 115021
+script.js:15 Name : American Samoa, Region : Oceania, SubRegion : Polynesia, Population : 55197
+script.js:15 Name : Czechia, Region : Europe, SubRegion : Central Europe, Population : 10698896
+script.js:15 Name : Botswana, Region : Africa, SubRegion : Southern Africa, Population : 2351625
+script.js:15 Name : Tunisia, Region : Africa, SubRegion : Northern Africa, Population : 11818618
+script.js:15 Name : Anguilla, Region : Americas, SubRegion : Caribbean, Population : 13452
+script.js:15 Name : Guinea-Bissau, Region : Africa, SubRegion : Western Africa, Population : 1967998
+script.js:15 Name : Slovakia, Region : Europe, SubRegion : Central Europe, Population : 5458827
+script.js:15 Name : Marshall Islands, Region : Oceania, SubRegion : Micronesia, Population : 59194
+script.js:15 Name : Algeria, Region : Africa, SubRegion : Northern Africa, Population : 44700000
+script.js:15 Name : Jamaica, Region : Americas, SubRegion : Caribbean, Population : 2961161
+script.js:15 Name : Mozambique, Region : Africa, SubRegion : Eastern Africa, Population : 31255435
+script.js:15 Name : Spain, Region : Europe, SubRegion : Southern Europe, Population : 47351567
+script.js:15 Name : Honduras, Region : Americas, SubRegion : Central America, Population : 9904608
+script.js:15 Name : Netherlands, Region : Europe, SubRegion : Western Europe, Population : 16655799
+script.js:15 Name : South Africa, Region : Africa, SubRegion : Southern Africa, Population : 59308690
+script.js:15 Name : Azerbaijan, Region : Asia, SubRegion : Western Asia, Population : 10110116
+script.js:15 Name : North Macedonia, Region : Europe, SubRegion : Southeast Europe, Population : 2077132
+script.js:15 Name : Gambia, Region : Africa, SubRegion : Western Africa, Population : 2416664
+script.js:15 Name : Liberia, Region : Africa, SubRegion : Western Africa, Population : 5057677
+script.js:15 Name : Luxembourg, Region : Europe, SubRegion : Western Europe, Population : 632275
+script.js:15 Name : Cape Verde, Region : Africa, SubRegion : Western Africa, Population : 555988
+script.js:15 Name : Bahamas, Region : Americas, SubRegion : Caribbean, Population : 393248
+script.js:15 Name : Georgia, Region : Asia, SubRegion : Western Asia, Population : 3714000
+script.js:15 Name : Kiribati, Region : Oceania, SubRegion : Micronesia, Population : 119446
+script.js:15 Name : Tanzania, Region : Africa, SubRegion : Eastern Africa, Population : 59734213
+script.js:15 Name : China, Region : Asia, SubRegion : Eastern Asia, Population : 1402112000
+script.js:15 Name : Guatemala, Region : Americas, SubRegion : Central America, Population : 16858333
+script.js:15 Name : São Tomé and Príncipe, Region : Africa, SubRegion : Middle Africa, Population : 219161
+script.js:15 Name : Germany, Region : Europe, SubRegion : Western Europe, Population : 83240525
+script.js:15 Name : Sierra Leone, Region : Africa, SubRegion : Western Africa, Population : 7976985
+script.js:15 Name : Chad, Region : Africa, SubRegion : Middle Africa, Population : 16425859
+script.js:15 Name : United Kingdom, Region : Europe, SubRegion : Northern Europe, Population : 67215293
+script.js:15 Name : Slovenia, Region : Europe, SubRegion : Central Europe, Population : 2100126
+script.js:15 Name : Thailand, Region : Asia, SubRegion : South-Eastern Asia, Population : 69799978
+script.js:15 Name : Indonesia, Region : Asia, SubRegion : South-Eastern Asia, Population : 273523621
+script.js:15 Name : Northern Mariana Islands, Region : Oceania, SubRegion : Micronesia, Population : 57557
+script.js:15 Name : Guam, Region : Oceania, SubRegion : Micronesia, Population : 168783
+script.js:15 Name : Finland, Region : Europe, SubRegion : Northern Europe, Population : 5530719
+script.js:15 Name : Mayotte, Region : Africa, SubRegion : Eastern Africa, Population : 226915
+script.js:15 Name : Gibraltar, Region : Europe, SubRegion : Southern Europe, Population : 33691
+script.js:15 Name : Turkmenistan, Region : Asia, SubRegion : Central Asia, Population : 6031187
+script.js:15 Name : Kosovo, Region : Europe, SubRegion : Southeast Europe, Population : 1775378
+script.js:15 Name : Ivory Coast, Region : Africa, SubRegion : Western Africa, Population : 26378275
+script.js:15 Name : Morocco, Region : Africa, SubRegion : Northern Africa, Population : 36910558
+script.js:15 Name : Dominican Republic, Region : Americas, SubRegion : Caribbean, Population : 10847904
+script.js:15 Name : Ghana, Region : Africa, SubRegion : Western Africa, Population : 31072945
+script.js:15 Name : Vatican City, Region : Europe, SubRegion : Southern Europe, Population : 451
+script.js:15 Name : Jersey, Region : Europe, SubRegion : Northern Europe, Population : 100800
+script.js:15 Name : Turkey, Region : Asia, SubRegion : Western Asia, Population : 84339067
+script.js:15 Name : Tuvalu, Region : Oceania, SubRegion : Polynesia, Population : 11792
+script.js:15 Name : Iran, Region : Asia, SubRegion : Southern Asia, Population : 83992953
+script.js:15 Name : Egypt, Region : Africa, SubRegion : Northern Africa, Population : 102334403
+script.js:15 Name : Denmark, Region : Europe, SubRegion : Northern Europe, Population : 5831404
+script.js:15 Name : Kenya, Region : Africa, SubRegion : Eastern Africa, Population : 53771300
+script.js:15 Name : Bulgaria, Region : Europe, SubRegion : Southeast Europe, Population : 6927288
+script.js:15 Name : Zimbabwe, Region : Africa, SubRegion : Southern Africa, Population : 14862927
+script.js:15 Name : Angola, Region : Africa, SubRegion : Middle Africa, Population : 32866268
+script.js:15 Name : Nigeria, Region : Africa, SubRegion : Western Africa, Population : 206139587
+script.js:15 Name : Poland, Region : Europe, SubRegion : Central Europe, Population : 37950802
+script.js:15 Name : Senegal, Region : Africa, SubRegion : Western Africa, Population : 16743930
+script.js:15 Name : Saint Helena, Ascension and Tristan da Cunha, Region : Africa, SubRegion : Western Africa, Population : 53192
+script.js:15 Name : Lebanon, Region : Asia, SubRegion : Western Asia, Population : 6825442
+script.js:15 Name : Samoa, Region : Oceania, SubRegion : Polynesia, Population : 198410
+script.js:15 Name : Philippines, Region : Asia, SubRegion : South-Eastern Asia, Population : 109581085
+script.js:15 Name : Guernsey, Region : Europe, SubRegion : Northern Europe, Population : 62999
+script.js:15 Name : El Salvador, Region : Americas, SubRegion : Central America, Population : 6486201
+script.js:15 Name : Kuwait, Region : Asia, SubRegion : Western Asia, Population : 4270563
+script.js:15 Name : Tonga, Region : Oceania, SubRegion : Polynesia, Population : 105697
+script.js:15 Name : Oman, Region : Asia, SubRegion : Western Asia, Population : 5106622
+script.js:15 Name : Afghanistan, Region : Asia, SubRegion : Southern Asia, Population : 40218234
+script.js:15 Name : Saint Kitts and Nevis, Region : Americas, SubRegion : Caribbean, Population : 53192
+script.js:15 Name : Central African Republic, Region : Africa, SubRegion : Middle Africa, Population : 4829764
+script.js:15 Name : Serbia, Region : Europe, SubRegion : Southeast Europe, Population : 6908224
+script.js:15 Name : Armenia, Region : Asia, SubRegion : Western Asia, Population : 2963234
+script.js:15 Name : Bangladesh, Region : Asia, SubRegion : Southern Asia, Population : 164689383
+script.js:15 Name : Laos, Region : Asia, SubRegion : South-Eastern Asia, Population : 7275556
+script.js:15 Name : Chile, Region : Americas, SubRegion : South America, Population : 19116209
+script.js:15 Name : French Polynesia, Region : Oceania, SubRegion : Polynesia, Population : 280904
+script.js:15 Name : Panama, Region : Americas, SubRegion : Central America, Population : 4314768
+script.js:15 Name : United States, Region : Americas, SubRegion : North America, Population : 329484123
+script.js:15 Name : Nepal, Region : Asia, SubRegion : Southern Asia, Population : 29136808
+script.js:15 Name : Myanmar, Region : Asia, SubRegion : South-Eastern Asia, Population : 54409794
+script.js:15 Name : Falkland Islands, Region : Americas, SubRegion : South America, Population : 2563
+script.js:15 Name : Hungary, Region : Europe, SubRegion : Central Europe, Population : 9749763
+script.js:15 Name : Palau, Region : Oceania, SubRegion : Micronesia, Population : 18092
+script.js:15 Name : Equatorial Guinea, Region : Africa, SubRegion : Middle Africa, Population : 1402985
+script.js:15 Name : Guinea, Region : Africa, SubRegion : Western Africa, Population : 13132792
+script.js:15 Name : United Arab Emirates, Region : Asia, SubRegion : Western Asia, Population : 9890400
+script.js:15 Name : Turks and Caicos Islands, Region : Americas, SubRegion : Caribbean, Population : 38718
+script.js:15 Name : British Virgin Islands, Region : Americas, SubRegion : Caribbean, Population : 30237
+script.js:15 Name : Liechtenstein, Region : Europe, SubRegion : Western Europe, Population : 38137
+script.js:15 Name : Bosnia and Herzegovina, Region : Europe, SubRegion : Southeast Europe, Population : 3280815
+script.js:15 Name : Malawi, Region : Africa, SubRegion : Eastern Africa, Population : 19129955
+script.js:15 Name : Bhutan, Region : Asia, SubRegion : Southern Asia, Population : 771612
+script.js:15 Name : Cameroon, Region : Africa, SubRegion : Middle Africa, Population : 26545864
+script.js:15 Name : Andorra, Region : Europe, SubRegion : Southern Europe, Population : 77265
+script.js:15 Name : Guadeloupe, Region : Americas, SubRegion : Caribbean, Population : 400132
+script.js:15 Name : Republic of the Congo, Region : Africa, SubRegion : Middle Africa, Population : 5657000
+script.js:15 Name : Réunion, Region : Africa, SubRegion : Eastern Africa, Population : 840974
+script.js:15 Name : Burkina Faso, Region : Africa, SubRegion : Western Africa, Population : 20903278
+script.js:15 Name : Jordan, Region : Asia, SubRegion : Western Asia, Population : 10203140
+script.js:15 Name : DR Congo, Region : Africa, SubRegion : Middle Africa, Population : 108407721
+script.js:15 Name : Tokelau, Region : Oceania, SubRegion : Polynesia, Population : 1411
+script.js:15 Name : Vietnam, Region : Asia, SubRegion : South-Eastern Asia, Population : 97338583
+script.js:15 Name : Sint Maarten, Region : Americas, SubRegion : Caribbean, Population : 40812
+script.js:15 Name : Belgium, Region : Europe, SubRegion : Western Europe, Population : 11555997
+script.js:15 Name : United States Minor Outlying Islands, Region : Americas, SubRegion : North America, Population : 300
+script.js:15 Name : Brazil, Region : Americas, SubRegion : South America, Population : 212559409
+script.js:15 Name : Belize, Region : Americas, SubRegion : Central America, Population : 397621
+script.js:15 Name : Antigua and Barbuda, Region : Americas, SubRegion : Caribbean, Population : 97928
+script.js:15 Name : Paraguay, Region : Americas, SubRegion : South America, Population : 7132530
+script.js:15 Name : Benin, Region : Africa, SubRegion : Western Africa, Population : 12123198
+script.js:15 Name : Brunei, Region : Asia, SubRegion : South-Eastern Asia, Population : 437483
+script.js:15 Name : Bolivia, Region : Americas, SubRegion : South America, Population : 11673029
+script.js:15 Name : Djibouti, Region : Africa, SubRegion : Eastern Africa, Population : 988002
+script.js:15 Name : French Guiana, Region : Americas, SubRegion : South America, Population : 254541
+script.js:15 Name : Canada, Region : Americas, SubRegion : North America, Population : 38005238
+script.js:15 Name : Saint Pierre and Miquelon, Region : Americas, SubRegion : North America, Population : 6069
+script.js:15 Name : Japan, Region : Asia, SubRegion : Eastern Asia, Population : 125836021
+script.js:15 Name : Rwanda, Region : Africa, SubRegion : Eastern Africa, Population : 12952209
+script.js:15 Name : Saint Vincent and the Grenadines, Region : Americas, SubRegion : Caribbean, Population : 110947
+script.js:15 Name : Iceland, Region : Europe, SubRegion : Northern Europe, Population : 366425
+script.js:15 Name : Belarus, Region : Europe, SubRegion : Eastern Europe, Population : 9398861
+script.js:15 Name : Hong Kong, Region : Asia, SubRegion : Eastern Asia, Population : 7500700
+script.js:15 Name : Lesotho, Region : Africa, SubRegion : Southern Africa, Population : 2142252
+script.js:15 Name : Fiji, Region : Oceania, SubRegion : Melanesia, Population : 896444
+script.js:15 Name : Austria, Region : Europe, SubRegion : Central Europe, Population : 8917205
+script.js:15 Name : Colombia, Region : Americas, SubRegion : South America, Population : 50882884
+script.js:15 Name : Gabon, Region : Africa, SubRegion : Middle Africa, Population : 2225728
+script.js:15 Name : Saudi Arabia, Region : Asia, SubRegion : Western Asia, Population : 34813867
+script.js:15 Name : South Georgia, Region : Antarctic, SubRegion : undefined, Population : 30
+script.js:15 Name : Ethiopia, Region : Africa, SubRegion : Eastern Africa, Population : 114963583
+script.js:15 Name : Caribbean Netherlands, Region : Americas, SubRegion : Caribbean, Population : 25987
+script.js:15 Name : Monaco, Region : Europe, SubRegion : Western Europe, Population : 39244
+script.js:15 Name : North Korea, Region : Asia, SubRegion : Eastern Asia, Population : 25778815
+script.js:15 Name : Italy, Region : Europe, SubRegion : Southern Europe, Population : 59554023
+script.js:15 Name : Namibia, Region : Africa, SubRegion : Southern Africa, Population : 2540916
+script.js:15 Name : Mongolia, Region : Asia, SubRegion : Eastern Asia, Population : 3278292
+script.js:15 Name : Solomon Islands, Region : Oceania, SubRegion : Melanesia, Population : 686878
+script.js:15 Name : Yemen, Region : Asia, SubRegion : Western Asia, Population : 29825968
+script.js:15 Name : Romania, Region : Europe, SubRegion : Southeast Europe, Population : 19286123
+script.js:15 Name : Svalbard and Jan Mayen, Region : Europe, SubRegion : Northern Europe, Population : 2562
+script.js:15 Name : France, Region : Europe, SubRegion : Western Europe, Population : 67391582
